@@ -1,0 +1,4 @@
+br\com\CyberGames\cybergames\DAO\IUsuario.class
+br\com\CyberGames\cybergames\controller\UserController.class
+br\com\CyberGames\cybergames\CybergamesApplication.class
+br\com\CyberGames\cybergames\model\Usuario.class
